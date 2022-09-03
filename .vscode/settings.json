@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/opt/anaconda3/envs/text_processing/bin/python",
-    "python.linting.pylintEnabled": false,
-    "python.linting.enabled": false,
-    "python.linting.pycodestyleEnabled": true
-}
