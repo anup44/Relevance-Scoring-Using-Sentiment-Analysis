@@ -1,0 +1,5 @@
+1. Transactions
+2. Eco driver for each transactions relevant for each transaction
+3. Articles retrieved for transactions
+4. Relevance score calculated
+5. Top 5 articles for each transaction

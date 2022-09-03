@@ -1,0 +1,38 @@
+aircraft
+refined petroleum
+integrated circuits
+crude petroleum
+agriculture
+ferrous metal
+non-ferrous metal
+metal products
+petroleum
+coal
+cement
+chemicals
+pharmaceuticals
+aerospace
+railway equipment
+automobile
+construction equipment
+shipbuilding
+electrical equipment
+machine tools
+automated systems
+electronics
+telecommunications equipment
+fishing food
+fishing beverages
+furniture
+textiles
+population growth
+gdp
+gdp growth
+inflation
+labour
+employment
+unemployment
+fdi
+public debt
+tax rates
+fx reserves
